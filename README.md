@@ -8,7 +8,9 @@ Greetings!
 Experience:
 
 📱 Android - Kotlin: Compose and XML
+
 📱 iOS - Swift: UIKit and SwiftUI
+
 💻 Web - React - HTML, CSS and JavaScript
 
 🏡 Göteborg, Sweden
